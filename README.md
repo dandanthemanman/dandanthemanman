@@ -4,7 +4,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hey nice to meet you, I'm db (Dan)</h1></summary>
-    <h3>📍 Software developer based in Los Angeles/Mexico City </h3>
+    <h3>📍 Software developer, Los Angeles/Mexico City </h3>
     
     
   </ul>
