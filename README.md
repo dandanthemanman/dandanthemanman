@@ -24,13 +24,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Vue and Sanity**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📝 
 
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
@@ -83,7 +83,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,vue,scss,css,figma,github,html,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,react,vue,sanity,scss,css,figma,github,html,react,vscode&perline=14" />
   </a>
 </p>
 
