@@ -5,7 +5,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hey nice to meet you, I'm db (Dan)</h1></summary>
     <h3>📍 Software developer, Los Angeles/Mexico City </h3>
-    <p>Hey there! 👋 I'm Dan Becker, a skilled web developer who takes pride in making my websites user-friendly, dynamic, and efficient. I work in JavaScript, Vue.js, Nuxt.js, React.js, SCSS, and Sanity CMS. Let's connect and explore options for collaboration!</p>
+    <p> Skilled web developer who takes pride in making my websites user-friendly, dynamic, and efficient. I work in JavaScript, Vue.js, Nuxt.js, React.js, SCSS, and Sanity CMS. Let's connect and explore options for collaboration!</p>
     
   </ul>
 </div>
