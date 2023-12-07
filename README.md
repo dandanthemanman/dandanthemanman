@@ -6,9 +6,8 @@
     <summary><h1 style="display: inline-block">Hey nice to meet you, I'm db (Dan)</h1></summary>
     <h3>I'm a (mainly frontend) software developer </h3>
     <h3>📍 Los Angeles/Mexico City </h3>
-    <h3>  </h3>
 
-    <!--h1 without bottom border-->
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">🍄 Technologies 🍄</h2></summary>
