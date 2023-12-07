@@ -3,9 +3,9 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi! 👋 I'm Dan Becker</h1></summary>
+    <summary><h1 style="display: inline-block">Dan Becker 🐢</h1></summary>
     <h3>📍 Los Angeles/Mexico City </h3>
-    <p> Skilled web developer who takes pride in making my websites user-friendly, dynamic, and efficient. I work in JavaScript, Vue.js, Nuxt.js, React.js, SCSS, and Sanity CMS. Let's connect and explore options for collaboration!</p>
+    <p> I'm a skilled web developer who takes pride in making my websites user-friendly, dynamic, and efficient. I work in JavaScript, Vue.js, Nuxt.js, React.js, SCSS, and Sanity CMS. Let's connect and explore options for collaboration!</p>
     
   </ul>
 </div>
