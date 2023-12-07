@@ -6,19 +6,6 @@
     <summary><h1 style="display: inline-block">Hey nice to meet you, I'm db (Dan)</h1></summary>
     <h3>I'm a (mainly frontend) software developer </h3>
     <h3>📍 Los Angeles/Mexico City </h3>
-
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">🍄 Technologies 🍄</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,vue,sanity,scss,css,figma,github,html,react,vscode&perline=14" />
-  </a>
-</p>
     
     
   </ul>
@@ -35,6 +22,19 @@
   <img  src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif"
        alt="snake" /></a>
 </div>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🍄 Technologies 🍄</h2></summary>
+  </ul>
+</div>
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,vue,sanity,scss,css,figma,github,html,react,vscode&perline=14" />
+  </a>
+</p>
 
 
 
