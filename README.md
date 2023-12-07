@@ -83,7 +83,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,figma,github,html,js,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,react,vue,scss,css,figma,github,html,react,vscode&perline=14" />
   </a>
 </p>
 
