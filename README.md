@@ -4,6 +4,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Dan Becker 🐢</h1></summary>
+    <a href="dan-becker.netlify.app">dan-becker.netlify.app</a>
     <h3>📍 Los Angeles/Mexico City </h3>
     <p> 🌱 Exceptional at mediating with clients, collaborating efficiently to spearhead projects, and getting tasks across the finish line. Currently working as web developer at Bean.la 🔨</p>
     
