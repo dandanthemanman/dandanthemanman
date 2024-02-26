@@ -5,7 +5,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Dan Becker 🐢</h1></summary>
     <h3>📍 Los Angeles/Mexico City </h3>
-    <p> I'm a skilled web developer who takes pride in making my websites user-friendly, dynamic, and efficient. I work in JavaScript, Vue.js, Nuxt.js, React.js, SCSS, and Sanity CMS. Let's connect and explore options for collaboration!</p>
+    <p> 🌱 Exceptional at mediating with clients, collaborating efficiently to spearhead projects, and getting tasks across the finish line. Currently working as web developer at Bean.la 🔨</p>
     
   </ul>
 </div>
